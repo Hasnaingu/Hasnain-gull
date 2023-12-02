@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;gIlSHZxZ#1HNn2OEDrJR7zqqpxqzbG3cyjHzESDb86u2seJrdavs",
+            "description": "cyber-x@;;;FUsiyDJK#BNkdEa7Ws06ZtTrOF_eh0eC9-G3h-Cfh1h1rE3QXl8A",
             "required": true,
             "value": ""
         },
@@ -22,7 +22,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Hasnain-789",
+            "description": "Hasnain-gull3",
             "required": true,
             "value": ""
         },
