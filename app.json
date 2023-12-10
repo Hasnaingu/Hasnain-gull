@@ -1,5 +1,5 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
+    "name": "hasnaingul3",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/Hasnaingu/Hasnain-Gull",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;VI1RQS6L#owwVeBoU_8lQuDWXEFZSz2V31QC3G2PNlGqWGy6_PK0",
+            "description": "cyber-x@;;;NccCxBTY#xBXR_RMthzoN-MvPzB2v4vG4TcGpONHt6mGGSdQv0T4",
             "required": true,
             "value": ""
         },
@@ -22,7 +22,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Hasnain-gul2",
+            "description": "Hasnaingul3",
             "required": true,
             "value": ""
         },
