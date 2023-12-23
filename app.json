@@ -1,5 +1,5 @@
 {
-    "name": "hasnaingul4",
+    "name": "ahmedcyber",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/Hasnaingu/Hasnain-Gull",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;oVU2SQya#E59u9BGbPY4E3QuTeqyDvkCtrXIUzL7DpCUry8nMitA",
+            "description": "cyber-x@;;;NccCxBTY#xBXR_RMthzoN-MvPzB2v4vG4TcGpONHt6mGGSdQv0T4",
             "required": true,
             "value": ""
         },
@@ -22,7 +22,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Hasnaingul4",
+            "description": "ahmedcyber",
             "required": true,
             "value": ""
         },
