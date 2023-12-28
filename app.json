@@ -1,5 +1,5 @@
 {
-    "name": "hasnaincyber",
+    "name": "malikcyber",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/Hasnaingu/Hasnain-Gull",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
@@ -12,17 +12,17 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;JQF1QQ6Q#q8jNPPFTs2cgH3gx1mfegZHaZSsylCZF8pSSRZO1kQo",
+            "description": "cyber-x@;;;UEUR3bQJ#dGk4olmsxOSCrondIIFe2kVQdJwzjE8yIzxTDxj7u0c",
             "required": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "6576bf8a-6705-4b46-9fc0-b072ebdf7ec1",
+            "description": "9a110b1f-96d2-4fbf-91ff-9661390e5628",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "hasnaincyber",
+            "description": "malikcyber",
             "required": true,
             "value": ""
         },
