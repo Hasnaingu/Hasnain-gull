@@ -1,16 +1,28 @@
 {
-    "name": "",
-    "description": "This is a 3ʳᵈ Party Apcyber-x@;;;pM931YwD#tVZoHHiZV4MiC9UpKE6U0DxevRTufl6RMsZFQFS03xU",
+    "name": "Cyber-X WhatsApp Bot",
+    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
+    "repository": "https://github.com/Hasnaingu/Hasnain-gull",
+    "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp Bot",
+        "WhatsApp Automation",
+        "Multi Device"
+    ],
+    "env": {
+        "SESSION_ID": {
+            "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "9ee95677-be23-4964-9ec2-f505f48d0d78",
+            "description": "Enter your heroku account api key",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "",
+            "description": "Enter you pushed app Name",
             "required": true,
             "value": ""
         },
